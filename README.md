@@ -2,6 +2,9 @@
 
 This Implementation enables executing of Brainfuckprograms via a Interpreter or a JIT-Compiler.
 
+The JIT-Compiler is only tested in a Ubuntu-WSL2-Instance.
+Other Systems may not work!
+
 ## Usage
 
 ```console
