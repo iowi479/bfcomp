@@ -8,7 +8,7 @@ Other Systems may not work!
 ## Usage
 
 ```console
-cargo run bfcomp {jit | int} <file_path> 
+bfcomp {jit | int} <file_path> 
 ```
 
 ## Examples
@@ -16,15 +16,15 @@ cargo run bfcomp {jit | int} <file_path>
 JIT-Compiler
 
 ```console
-cargo run jit examples/hello_world.bf
+bfcomp jit examples/hello_world.bf
 ```
 
 Interpreter
 
 ```console
-cargo run int examples/hello_world.bf
+bfcomp int examples/hello_world.bf
 ```
 
 ## Source
 
-Idea and context: [Tsoding](https://www.youtube.com/watch?v=mbFY3Rwv7XM)
+Idea and context: [Tsoding Stream](https://www.youtube.com/watch?v=mbFY3Rwv7XM)
