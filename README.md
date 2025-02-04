@@ -1,6 +1,6 @@
 # JIT Compiler for Brainfuck
 
-This Implementation enables executing of Brainfuckprograms via a Interpreter or a JIT-Compiler.
+This Implementation enables the execution of brainfuck-programs via an Interpreter or a JIT-Compiler.
 
 The JIT-Compiler is only tested in an Ubuntu-WSL2-Instance on a x86-64 machine.
 Other Systems may not work!
